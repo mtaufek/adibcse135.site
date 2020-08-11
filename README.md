@@ -23,7 +23,7 @@
 <img src=/modified-index.jpg width=400><br>
 
 ### validator-initial.jpg - validating your copied index.html
-<img src=/validator-initial-index.jpg width=400><br>
+<img src=/validator-initial.jpg width=400><br>
 
 ### vhosts-verify.jpg - demonstrating a functional domain.site, collector.domain.site, reporting.domain.sites
 <img src=/vhosts-verify.jpg width=400><br>
