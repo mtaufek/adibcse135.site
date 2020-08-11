@@ -32,6 +32,7 @@
 <img src=/ssl-verify.jpg width=400><br>
 
 ### github-deploy.mpeg or github-deploy.gif - showing Github deploy process
+**in process** 
 
 ### php-verification.jpg - demonstration of working php page
 <img src=/php-verification.jpg width=400><br>
@@ -43,6 +44,7 @@
 <img src=/header-verify.jpg width=400><br>
 
 ### error-page.jpg - demonstration of functional 404 page
+<img src=/error-page.jpg width=400><br>
 
 ### log-verification.jpg - showing you know where your log files are
 <img src=/log-verification.jpg width=400><br>
