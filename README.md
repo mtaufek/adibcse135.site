@@ -20,6 +20,7 @@
 ### initial-index.jpg - default Apache2 page to prove Apache is working
 
 ### modified-index.jpg - first change to index.html
+<img src=/modified-index.jpg width=250><br>
 
 ### validator-initial.jpg - validating your copied index.html
 
